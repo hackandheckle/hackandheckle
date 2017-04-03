@@ -1,0 +1,55 @@
+---
+title: Episode 067
+date: '2014-06-10 21:51:20'
+tags: []
+---
+
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/2880454/height/75/width/640/theme/standard/direction/no/autoplay/no/autonext/no/thumbnail/no/preload/no/no_addthis/no/" height="75" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<!--more-->
+
+
+Events:
+1 - Lean Machine Workshops (18th July Weekend - Business Validation) RCL
+https://www.leanstartupmachine.com/?utm_source=Sign-Up.to&utm_medium=email&utm_campaign=29563-9338-RCL+Newsletter+June+2014
+
+2 - We're looking for presenters to talk at the upcoming Open Source Developers' Conference (4-7 November 2014, Griffith University Gold Coast Campus, QLD). Register on the http://2014.osdc.com.au/ site, and propose a presentation.
+
+What We Did:
+Ruby Meetup - Dr Nic! - Cloud Foundry, Security, Mini Profiler, Jobs (two SF companies looking to ship you over)
+http://www.meetup.com/BrisRuby/photos/22154052/
+
+Uber - Free for meetups
+Uber & River City Labs  have partnered to provide free Uber rides to some of our selected events.
+
+
+BNE Cocoheads Meetup
+https://speakerdeck.com/followben/cocoaheads-bne-july-2014
+
+News
+WWDC14
+https://developer.apple.com/videos/wwdc/2014/ - safari 
+-Introduction to Swift
+-Integrating Swift with Objective-C
+
+swift
+http://www.youtube.com/watch?v=l62x8Oq_QP4 (Intro 8mins)
+
+https://developer.apple.com/swift/
+https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html
+
+
+#inspect2014
+http://www.rubymotion.com/conference/2014/
+Jack & Will - did a talk (interviewed on the show)
+http://vimeo.com/groups/199097 #2013
+The videographer said it would take about two weeks to have the videos ready.
+http://blog.motioninmotion.tv/why-swift-will-never-replace-rubymotion
+
+
+DR Pick:
+https://www.youtube.com/watch?v=2-L3Kgc6Y7E&feature=youtu.be
+Best startup vid
+
+The hard thing about hard things - Ben Horrowitz
+
+

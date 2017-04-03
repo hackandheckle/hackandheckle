@@ -1,0 +1,27 @@
+---
+title: H&&H112 - Apple WWDC 2015
+date: '2015-06-17 23:18:29'
+tags: []
+---
+
+beating up the announcements
+
+&nbsp;
+
+<!--more-->
+
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/3622223/height/75/width/640/theme/standard/direction/no/autoplay/no/autonext/no/thumbnail/no/preload/no/no_addthis/no/" height="75" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+<strong>Apple WWDC</strong>
+
+https://developer.apple.com/wwdc
+
+<strong>WWDC Highlights</strong>
+
+http://www.theverge.com/2015/6/8/8745353/apple-wwdc-2015-highlights-announcements-recap
+
+<strong>Swift Open Sourced</strong>
+
+<a href="https://developer.apple.com/swift/blog/?id=29"><span>https://developer.apple.com/swift/blog/?id=29</span></a>
+
+

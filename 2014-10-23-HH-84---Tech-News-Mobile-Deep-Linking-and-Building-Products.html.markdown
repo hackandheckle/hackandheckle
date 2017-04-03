@@ -1,0 +1,44 @@
+---
+title: H&&H 84 - Tech News, Mobile Deep Linking and Building Products
+date: '2014-10-23 00:17:55'
+tags: []
+---
+
+Tech Interns, Google Marketing Lessons, Poodle, Fake Cell Tower, Hotel Wifi Jamming
+<!--more-->
+
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/3135649/height/75/width/640/theme/standard/direction/no/autoplay/no/autonext/no/thumbnail/no/preload/no/no_addthis/no/" height="75" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<p dir="ltr" style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;"><br class="Apple-interchange-newline" />Prog Lang</p>
+<p dir="ltr" style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;"><a href="https://www.coursera.org/course/proglang"><span style="font-size: 15px; font-family: Arial; color: #1155cc; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap;">https://www.coursera.org/course/proglang</span></a></p>
+<p dir="ltr" style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;">FP Course</p>
+<p dir="ltr" style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 15px; font-family: Arial; color: #1155cc; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap;"><a href="https://www.edx.org/course/delftx/delftx-fp101x-introduction-functional-2126#.VD-bzha0e30">https://www.edx.org/course/delftx/delftx-fp101x-introduction-functional-2126#.VD-bzha0e30</a></span></p>
+<p dir="ltr" style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;">ilab looking for iterns</p>
+<p dir="ltr" style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 15px; font-family: Arial; color: #1155cc; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap;"><a href="http://www.ilabaccelerator.com/techinterns/">http://www.ilabaccelerator.com/techinterns/</a></span></p>
+<p dir="ltr" style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;">Red Hat open Day</p>
+<p dir="ltr" style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;"><a href="http://www.meetup.com/qldjvm/events/213724692/"><span style="font-size: 15px; font-family: Arial; color: #1155cc; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap;">http://www.meetup.com/qldjvm/events/213724692/</span></a></p>
+<p style="color: #000000;"></p>
+<p dir="ltr" style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;">Google Marketing Lessons App</p>
+<p dir="ltr" style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;"><a href="http://techcrunch.com/2014/10/09/google-launches-mini-marketing-lessons-for-startups-with-new-mobile-app-google-primer/"><span style="font-size: 15px; font-family: Arial; color: #1155cc; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap;">http://techcrunch.com/2014/10/09/google-launches-mini-marketing-lessons-for-startups-with-new-mobile-app-google-primer/</span></a></p>
+<p style="color: #000000;"></p>
+<p dir="ltr" style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;">Mobile Deep Linking</p>
+<p dir="ltr" style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;"><a href="http://growthhackers.com/slides/slides-deep-linking-a-fundamental-change-in-the-mobile-app-ecosystem/?utm_content=buffera953e&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer"><span style="font-size: 15px; font-family: Arial; color: #1155cc; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap;">http://growthhackers.com/slides/slides-deep-linking-a-fundamental-change-in-the-mobile-app-ecosystem/?utm_content=buffera953e&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer</span></a></p>
+<p style="color: #000000;"></p>
+<p dir="ltr" style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;">Poodle SSL3 issue</p>
+<p dir="ltr" style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;"><a href="https://www.poodletest.com/"><span style="font-size: 15px; font-family: Arial; color: #1155cc; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap;">https://www.poodletest.com/</span></a></p>
+<p dir="ltr" style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;"><a href="http://googleonlinesecurity.blogspot.com.au/2014/10/this-poodle-bites-exploiting-ssl-30.html?elq=4c4c00b36947422f9175c2c0bdaf5930&amp;elqCampaignId=473"><span style="font-size: 15px; font-family: Arial; color: #1155cc; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap;">http://googleonlinesecurity.blogspot.com.au/2014/10/this-poodle-bites-exploiting-ssl-30.html?elq=4c4c00b36947422f9175c2c0bdaf5930&amp;elqCampaignId=473</span></a></p>
+<p style="color: #000000;"></p>
+<p dir="ltr" style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;">fake cell towers</p>
+<p dir="ltr" style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;"><a href="http://blackbag.gawker.com/those-interceptor-fake-cell-phone-towers-are-in-washi-1637721419/+tcberman"><span style="font-size: 15px; font-family: Arial; color: #1155cc; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap;">http://blackbag.gawker.com/those-interceptor-fake-cell-phone-towers-are-in-washi-1637721419/+tcberman</span></a></p>
+<p dir="ltr" style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;">Background</p>
+<p dir="ltr" style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;"><a href="http://www.osnews.com/story/27416/The_second_operating_system_hiding_in_every_mobile_phone"><span style="font-size: 15px; font-family: Arial; color: #1155cc; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap;">http://www.osnews.com/story/27416/The_second_operating_system_hiding_in_every_mobile_phone</span></a></p>
+<p style="color: #000000;"></p>
+<p dir="ltr" style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;">Hotel Jamming wifi</p>
+<p dir="ltr" style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;"><a style="text-decoration: none;" href="http://www.theguardian.com/us-news/2014/oct/03/marriott-fined-wi-fi-nashville-hotel">http://www.theguardian.com/us-news/2014/oct/03/marriott-fined-wi-fi-nashville-hotel</a></p>
+<p style="color: #000000;"></p>
+&nbsp;
+<p dir="ltr" style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;">Pick</p>
+<p dir="ltr" style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 15px; font-family: Arial; color: #1155cc; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap;"><a href="http://www.scala-lang.org/api/current/index.html#scala.collection.generic.IsTraversableLike$">http://www.scala-lang.org/api/current/index.html#scala.collection.generic.IsTraversableLike$</a></span></p>
+<p dir="ltr" style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;"><a href="http://startupclass.samaltman.com/courses/lec07/"><span style="font-size: 15px; font-family: Arial; color: #1155cc; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap;">http://startupclass.samaltman.com/courses/lec07/</span></a></p>
+<p dir="ltr" style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;">Build product people love</p>
+<p dir="ltr" style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 15px; font-family: Arial; color: #1155cc; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap;"><a href="http://theonion.github.io/fartscroll.js/">http://theonion.github.io/fartscroll.js/</a></span></p>
+&nbsp;

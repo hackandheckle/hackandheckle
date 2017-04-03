@@ -1,0 +1,39 @@
+---
+title: Episode 134
+date: '2016-01-29 08:53:53'
+tags: []
+---
+
+Hack and Heckle Episode 134 - Chess Engines, Chrome App Store and Geo-Unblcoking
+
+<!--more-->
+
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/4110248/height/75/width/640/theme/standard/autoplay/no/autonext/no/thumbnail/no/preload/no/no_addthis/no/direction/backward/no-cache/true/" height="75" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+SHOW NOTES
+
+Geo Unblocker - project
+www.streamsurfer.tv
+
+Chrome apps
+https://chrome.google.com/webstore/detail/udemy-mini-player/dllcgdlgepbhnpgphognhiafbnnbopfm
+https://chrome.google.com/webstore/detail/udemy-mini-player-extensi/deppadlmnfibkpancgbcenfaiaaonjoc
+
+https://github.com/abarax/udemy-mini-player-extension
+https://github.com/abarax/udemy-mini-player
+
+Chess Engine
+https://github.com/abarax/LeChessEngine
+
+Started using this.
+https://wakatime.com
+
+
+Python moving to github!
+https://mail.python.org/pipermail/core-workflow/2016-January/000345.html
+
+
+Tweet of the week
+https://twitter.com/ericdfields/status/677677470590570496/photo/1?ref_src=twsrc%5Etfw
+
+

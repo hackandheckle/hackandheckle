@@ -1,0 +1,39 @@
+---
+title: Team
+date: '2013-11-14 10:06:18'
+tags: []
+---
+
+<strong>Ben Morgan</strong>
+I'm a software engineer with a love of technology.
+
+<strong>Twitter:</strong> <a href="https://twitter.com/benedwinmorgan" data-send-impression-cookie="true">@benedwinmorgan</a> 
+<strong>Blog:</strong> <a href="http://badness10000.blogspot.com.au/">http://badness10000.blogspot.com.au</a>
+
+&nbsp;
+
+<strong>Darren Rogan</strong>
+Architect and Developer focusing on Java, Ruby and other random stuff. Brisbane, Australia
+
+<strong>Twitter: <a href="https://twitter.com/darrenrogan" data-send-impression-cookie="true">@darrenrogan </a></strong>
+
+<strong>Website: </strong><a title="http://www.cerebro.com.au" href="http://t.co/wyCJ8JrLjp" target="_blank" rel="me nofollow">cerebro.com.au</a>
+
+<strong>Linkedin:</strong>  <a href="http://www.linkedin.com/in/darrenrogan" data-send-impression-cookie="true">http://www.linkedin.com/in/darrenrogan</a>
+
+&nbsp;
+
+&nbsp;
+
+<strong>Leigh Appel</strong>
+Leigh is a Brisbane based software engineer with a keen interest in technology and software development.  Other interests include accumulating way too many hobbies.
+
+<strong>Website: <a href="http://leighappel.com" data-send-impression-cookie="true">leighappel.com</a></strong>
+
+<strong>Twitter: <a href="https://twitter.com/abarax" data-send-impression-cookie="true">@abarax</a></strong>
+
+<strong>Github: <a href="https://github.com/abarax" data-send-impression-cookie="true">abarax</a></strong>
+
+&nbsp;
+
+&nbsp;

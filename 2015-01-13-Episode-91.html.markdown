@@ -1,0 +1,31 @@
+---
+title: Episode 91
+date: '2015-01-13 11:01:10'
+tags: []
+---
+
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/3283892/height/75/width/640/theme/standard/direction/no/autoplay/no/autonext/no/thumbnail/no/preload/no/no_addthis/no/" height="75" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+<!--more-->
+
+Yow 2014 Recap
+
+Gil Tene
+https://www.youtube.com/watch?v=6Rs0p3mPNr0
+
+Hanselman
+http://www.hanselman.com/blog/AmIReallyADeveloperOrJustAGoodGoogler.aspx
+
+New computer. forgot to install driver so mouse copy and pasted
+http://www.dowdandassociates.com/blog/content/howto-repair-windows-7-install-after-replacing-motherboard/
+
+Metadata
+9 days to estimate metadata retention costs now 14 - 
+http://www.theregister.co.uk/2014/12/25/christmas_eve_email_asked_oz_telcos_for_metadata_retention_costs_by_jan_9th/
+
+Wifi jamming
+http://money.cnn.com/2015/01/05/technology/mobile/marriott-wifi/
+
+
+
+

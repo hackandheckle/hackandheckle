@@ -1,0 +1,29 @@
+---
+title: Episode 045 - Recap of 2013
+date: '2013-12-20 00:02:37'
+tags: []
+---
+
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/2600985/height/75/width/640/theme/standard/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/" height="75" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+Check out our last show of 2013, with a recap of some of the biggest stories of 2013
+
+<!--more -->
+
+Recap 2013:
+Rise and Fall of BitCoin
+NSA Spying and Fallout
+Google Glass and Quantified Self
+Xbox One and PS4 
+OUYA and KickStarter
+
+iOS7 - flat styling
+abc ivew on google play (https://play.google.com/store/apps/details?id=au.net.abc.iview&hl=en) 
+
+Dev Releases:
+Jee Stack, Ruby 2, Rails 4 etc
+Continued rise of Java script
+Rise of Functional Programming
+Payment Services (Stripe, Pin, Braintree)
+
+Rise of Australian Startups  
