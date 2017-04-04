@@ -8,7 +8,7 @@ tags:
 <p align="center"><b>Hack and Heckle 001</b></p>
 <b> </b>
 
-<a href="https://drive.google.com/open?id=0B3KFoVQ01nUJYmY4ZXJmWDUwRkE">Audio File</>
+<a href="https://drive.google.com/open?id=0B3KFoVQ01nUJYmY4ZXJmWDUwRkE">Audio File</a>
 
 Show Notes:
 
