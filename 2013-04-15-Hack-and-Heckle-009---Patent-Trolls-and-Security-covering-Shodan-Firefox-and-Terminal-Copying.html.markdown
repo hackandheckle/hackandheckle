@@ -5,7 +5,8 @@ date: '2013-04-15 10:10:30'
 tags: []
 ---
 
-<iframe style="border: none" src="http://html5-player.libsyn.com/embed/episode/id/2287475/height/360/width/640/theme/legacy/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/" height="360" width="640" scrolling="no"></iframe>
+
+<a href="https://drive.google.com/open?id=0B3KFoVQ01nUJNlhNMEYtNHpiTU0">Show audio file</a>
 
 Show Notes:
 http://lifehacker.com/5994010/why-ideas-pop-into-your-head-when-youre-trying-to-fall-asleep

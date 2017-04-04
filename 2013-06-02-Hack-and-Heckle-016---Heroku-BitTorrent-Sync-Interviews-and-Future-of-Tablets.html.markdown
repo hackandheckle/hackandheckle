@@ -4,6 +4,7 @@ date: '2013-06-02 07:10:13'
 tags: []
 ---
 
+Audio missing
 <iframe style="border: none" src="http://html5-player.libsyn.com/embed/episode/id/2344714/height/360/width/640/theme/legacy/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/" height="360" width="640" scrolling="no"></iframe>
 
 http://qz.com/79795/actually-blackberrys-ceo-is-correct-that-theres-no-future-in-tablets/

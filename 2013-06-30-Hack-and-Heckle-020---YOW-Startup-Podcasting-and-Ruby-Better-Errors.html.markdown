@@ -4,7 +4,7 @@ date: '2013-06-30 22:03:05'
 tags: []
 ---
 
-<iframe style="border: none" src="http://html5-player.libsyn.com/embed/episode/id/2379388/height/360/width/640/theme/legacy/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/" height="360" width="640" scrolling="no"></iframe>
+<a href="https://drive.google.com/open?id=0B3KFoVQ01nUJUVB5S2hHeWdfckU">Show audio file</a>
 
 Show Notes:
 http://yowconference.com.au/

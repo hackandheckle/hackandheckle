@@ -5,7 +5,8 @@ date: '2013-04-28 11:48:23'
 tags: []
 ---
 
-<iframe style="border: none" src="http://html5-player.libsyn.com/embed/episode/id/2303381/height/360/width/640/theme/legacy/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/" height="360" width="640" scrolling="no"></iframe>
+<a href="https://drive.google.com/open?id=0B3KFoVQ01nUJOXdqTDN0MXJqbTQ">Show audio file</a>
+
 <p dir="ltr">Show Notes:</p>
 <b><b> </b></b>
 <p dir="ltr">STARTUP &amp; STATS</p>

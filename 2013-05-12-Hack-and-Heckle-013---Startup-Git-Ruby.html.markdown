@@ -4,6 +4,7 @@ date: '2013-05-12 20:48:51'
 tags: []
 ---
 
+Audio missing
 <iframe style="border: none;" src="http://html5-player.libsyn.com/embed/episode/id/2317255/height/360/width/640/theme/legacy/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/" height="360" width="640" scrolling="no"></iframe>
 
 Show notes:

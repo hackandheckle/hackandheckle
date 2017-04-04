@@ -6,7 +6,7 @@ tags: []
 ---
 
 Australian Startups, Ruby, Rails 4, Java Resthub, Blink and Bitcoin in that order.
-<iframe style="border: none" src="http://html5-player.libsyn.com/embed/episode/id/2278183/height/360/width/640/theme/legacy/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/" height="360" width="640" scrolling="no"></iframe>
+<a href="https://drive.google.com/open?id=0B3KFoVQ01nUJbEJKZmZxVkkxNzg">Show audio file</a>
 Show Notes:
 
 RCL - http://www.rivercitylabs.net/ 

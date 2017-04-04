@@ -5,7 +5,8 @@ date: '2013-05-05 08:14:27'
 tags: []
 ---
 
-<iframe style="border: none" src="http://html5-player.libsyn.com/embed/episode/id/2311158/height/360/width/640/theme/legacy/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/" height="360" width="640" scrolling="no"></iframe>
+
+<a href="https://drive.google.com/open?id=0B3KFoVQ01nUJOTlvTC15cnRfSTQ">Show audio file</a>
 
 Show Notes:
 JVM Talk. - http://www.cerebro.com.au/2013/04/29/spring-roo-introduction-talk/

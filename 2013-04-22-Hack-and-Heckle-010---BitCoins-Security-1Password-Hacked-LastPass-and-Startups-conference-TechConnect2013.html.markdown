@@ -5,7 +5,8 @@ date: '2013-04-22 01:19:04'
 tags: []
 ---
 
-<iframe style="border: none" src="http://html5-player.libsyn.com/embed/episode/id/2295625/height/360/width/640/theme/legacy/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/" height="360" width="640" scrolling="no"></iframe>
+
+<a href="https://drive.google.com/open?id=0B3KFoVQ01nUJVWl1WDFuOFR4cUk">Show audio file</a>
 
 Show Notes:
 BITCOIN:
