@@ -9,8 +9,8 @@ tags:
 At the recent 2013 yow conference in Brisbane we interviewed Jeff Hawkins on computing like the brain.
 
 The transcript of the interview is available over the jump
-<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/2597159/height/75/width/640/theme/standard/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/" height="75" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-&nbsp;
+
+<a href="https://drive.google.com/open?id=0B3KFoVQ01nUJM0QtY2J4Y2kybm8">Show audio file</a>
 
 <!--more-->
 

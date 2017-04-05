@@ -6,8 +6,7 @@ tags:
 ---
 
 At the Yow 2013 conference we had a chance to interview Gilad Bracha who works on the Dart language at Google.
-<iframe style="border: none;" src="//html5-player.libsyn.com/embed/episode/id/2643002/height/75/width/640/theme/standard/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/" height="75" width="640" allowfullscreen="" scrolling="no"></iframe>
-<!--more-->
+<a href="https://drive.google.com/open?id=0B3KFoVQ01nUJUHJRRTVsLVpVRTg">Show audio file</a>
 
 Darren Rogan: Hello and welcome to Hack and Heckle. Today we have an interview with Gilad Bracha who works at Google on the Dart language.
 Joining me today is Gilad Bracha, is that correct?

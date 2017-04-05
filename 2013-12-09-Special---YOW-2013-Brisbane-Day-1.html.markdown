@@ -5,7 +5,8 @@ tags:
 - yow2013
 ---
 
-<iframe style="border: none;" src="//html5-player.libsyn.com/embed/episode/id/2586582/height/75/width/640/theme/standard/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/" height="75" width="640" allowfullscreen="" scrolling="no"></iframe>
+
+<a href="https://drive.google.com/open?id=0B3KFoVQ01nUJdWFPYldXcnNTMGM">Show audio file</a>
 
 http://brisbane.yowconference.com.au/
 
