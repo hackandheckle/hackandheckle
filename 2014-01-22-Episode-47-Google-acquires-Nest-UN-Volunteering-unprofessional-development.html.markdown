@@ -4,8 +4,7 @@ date: '2014-01-22 10:26:16'
 tags: []
 ---
 
-<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/2643075/height/75/width/640/theme/standard/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/" height="75" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-<!--more-->
+<a href="https://drive.google.com/open?id=0B3KFoVQ01nUJU0dQTnl4S0tyRFU">Show audio file</a>
 
 Events:
 Build my Robot (again) 08 Feb - $110 @RCL

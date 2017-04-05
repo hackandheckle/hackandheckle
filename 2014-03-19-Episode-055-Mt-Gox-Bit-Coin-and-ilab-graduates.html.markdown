@@ -4,7 +4,7 @@ date: '2014-03-19 09:01:13'
 tags: []
 ---
 
-<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/2736521/height/75/width/640/theme/standard/direction/no/autoplay/no/autonext/no/thumbnail/no/preload/no/no_addthis/no/" height="75" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<a href="https://drive.google.com/open?id=0B3KFoVQ01nUJaEpPaTItZUlIN0U">Show audio file</a>
 
 <!--more-->
 Functional programming course starting monday.

@@ -7,7 +7,8 @@ tags: []
 <p dir="ltr">Show Notes:</p>
 <!--more-->
 
-<iframe style="border: none;" src="//html5-player.libsyn.com/embed/episode/id/2654323/height/75/width/640/theme/standard/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/" height="75" width="640" allowfullscreen="" scrolling="no"></iframe>
+<a href="https://drive.google.com/open?id=0B3KFoVQ01nUJVHFpNTRGWmV2VE0">Show audio file</a>
+
 <p dir="ltr"><span style="line-height: 1.5em;">Local &amp; Events</span></p>
  Ben
 <p dir="ltr"><a href="https://class.coursera.org/artificialvision-001">https://class.coursera.org/artificialvision-001</a></p>

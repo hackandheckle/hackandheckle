@@ -7,9 +7,9 @@ tags: []
 <p dir="ltr">Show Notes:</p>
 <!--more-->
 
-<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/2664595/height/75/width/640/theme/standard/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/" height="75" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<a href="https://drive.google.com/open?id=0B3KFoVQ01nUJVC1PTXJKRU5pd00">Show audio file</a>
 
- 
+
 Stories
 
 Muru-D

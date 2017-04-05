@@ -4,7 +4,8 @@ date: '2014-01-15 03:54:09'
 tags: []
 ---
 
-<iframe style="border: none;" src="//html5-player.libsyn.com/embed/episode/id/2631760/height/75/width/640/theme/standard/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/" height="75" width="640" allowfullscreen="" scrolling="no"></iframe>
+<a href="https://drive.google.com/open?id=0B3KFoVQ01nUJWlZ2cEJqeWw4VU0">Show audio file</a>
+
 <!--more -->
 <p dir="ltr">Local.</p>
 <p dir="ltr">clojure meetup starting. <a href="http://www.meetup.com/clj-bne/">http://www.meetup.com/clj-bne/</a></p>
