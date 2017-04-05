@@ -8,10 +8,7 @@ tags:
 ---
 
 Interview of Mark Hibberd discussing Functional Programming and Previewing Lambda Jam (FP Conference 8 - 9 May - Brisbane).
-
-<!--more-->
-
-<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/2813215/height/75/width/640/theme/standard/direction/no/autoplay/no/autonext/no/thumbnail/no/preload/no/no_addthis/no/" height="75" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<a href="https://drive.google.com/open?id=0B3KFoVQ01nUJTDVsVUhLTVc0UzA">Show audio file</a>
 
 <a style="color: #0088cc; text-decoration: none; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px; white-space: nowrap;" href="http://twitter.com/markhibberd" target="_blank">@markhibberd</a> http://mth.io/
 

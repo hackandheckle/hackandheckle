@@ -6,7 +6,6 @@ tags: []
 
 <a href="https://drive.google.com/open?id=0B3KFoVQ01nUJdjBpOFRYTm5RZEk">Show audio file</a>
 
-<!--more-->
 
 
 yow west
