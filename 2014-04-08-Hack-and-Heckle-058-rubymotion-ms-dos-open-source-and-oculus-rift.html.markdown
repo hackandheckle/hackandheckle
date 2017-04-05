@@ -4,8 +4,7 @@ date: '2014-04-08 20:11:18'
 tags: []
 ---
 
-<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/2769576/height/75/width/640/theme/standard/direction/no/autoplay/no/autonext/no/thumbnail/no/preload/no/no_addthis/no/" height="75" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-<!--more-->
+<a href="https://drive.google.com/open?id=0B3KFoVQ01nUJR25tNFZ2V0ZkdVE">Show audio file</a>
 
 Darren Week:
 Talk at CocoHeads last night into RubyMotion

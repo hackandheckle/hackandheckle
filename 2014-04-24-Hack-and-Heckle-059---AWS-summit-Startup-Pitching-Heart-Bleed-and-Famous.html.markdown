@@ -4,7 +4,8 @@ date: '2014-04-24 04:39:43'
 tags: []
 ---
 
-<iframe style="border: none;" src="//html5-player.libsyn.com/embed/episode/id/2797216/height/75/width/640/theme/standard/direction/no/autoplay/no/autonext/no/thumbnail/no/preload/no/no_addthis/no/" height="75" width="640" allowfullscreen="" scrolling="no"></iframe>
+<a href="https://drive.google.com/open?id=0B3KFoVQ01nUJZDk1NGxMM01yTmM">Show audio file</a>
+
 
 <!--more-->
 <p dir="ltr"><i>AWS summit. </i></p>
