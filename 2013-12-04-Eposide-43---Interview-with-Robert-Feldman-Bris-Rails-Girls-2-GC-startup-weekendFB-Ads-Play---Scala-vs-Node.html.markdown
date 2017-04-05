@@ -5,7 +5,9 @@ date: '2013-12-04 05:41:52'
 tags: []
 ---
 
-<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/2579190/height/75/width/640/theme/standard/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/" height="75" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<a href="https://drive.google.com/open?id=0B3KFoVQ01nUJMkhTZjI2alh4eDg">Show audio file</a>
+
+
 <p dir="ltr">(interview starts ~ 43:50)</p>
 <p dir="ltr"><a href="http://railsgirls.com/brisbane">http://railsgirls.com/brisbane</a></p>
 <!--more-->
