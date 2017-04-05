@@ -5,7 +5,7 @@ date: '2013-11-04 09:14:40'
 tags: []
 ---
 
-<a href="https://drive.google.com/open?id=0B3KFoVQ01nUJR1V6RUl0WVc1dEE"">Show audio file</a>
+<a href="https://drive.google.com/open?id=0B3KFoVQ01nUJR1V6RUl0WVc1dEE">Show audio file</a>
 
 <!--more-->
 http://www.infinitewardrobe.com/ - Interview starting at 34:55
