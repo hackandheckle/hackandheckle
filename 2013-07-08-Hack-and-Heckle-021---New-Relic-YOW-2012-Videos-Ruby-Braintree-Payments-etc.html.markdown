@@ -5,8 +5,7 @@ date: '2013-07-08 04:04:41'
 tags: []
 ---
 
-<iframe style="border: none" src="http://html5-player.libsyn.com/embed/episode/id/2388235/height/360/width/640/theme/legacy/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/" height="360" width="640" scrolling="no"></iframe>
-
+<a href="https://drive.google.com/open?id=0B3KFoVQ01nUJdmk2OU9OTWNJRnM">Show audio file</a>
 Show Notes:
 
 http://blog.newrelic.com/2013/06/19/monitoring-the-metrics-that-matter-introducing-the-new-relic-platform/?utm_source=TWIT&utm_medium=social_media&utm_content=platform&utm_campaign=promotedtweet&mpc=SM-TWIT-platform-en-100-platform-launch

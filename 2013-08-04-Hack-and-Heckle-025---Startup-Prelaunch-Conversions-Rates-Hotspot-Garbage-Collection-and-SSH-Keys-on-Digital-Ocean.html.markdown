@@ -5,7 +5,7 @@ date: '2013-08-04 01:00:29'
 tags: []
 ---
 
-<iframe style="border: none" src="http://html5-player.libsyn.com/embed/episode/id/2422575/height/360/width/640/theme/legacy/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/" height="360" width="640" scrolling="no"></iframe>
+<a href="https://drive.google.com/open?id=0B3KFoVQ01nUJbF95RDh1bWhaOG8">Show audio file</a>
 
 Show Notes:
 Oracle and Microsoft Cloud

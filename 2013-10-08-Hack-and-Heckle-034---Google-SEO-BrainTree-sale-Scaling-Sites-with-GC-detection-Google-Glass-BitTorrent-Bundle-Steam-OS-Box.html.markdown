@@ -5,7 +5,8 @@ date: '2013-10-08 07:52:51'
 tags: []
 ---
 
-<iframe style="border: none" src="http://html5-player.libsyn.com/embed/episode/id/2500922/height/360/width/640/theme/legacy/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/" height="360" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<a href="https://drive.google.com/open?id=0B3KFoVQ01nUJdVYxRDl6MkxLcUE">Show audio file</a>
+
 <!--more-->
 <p dir="ltr">Local:</p>
 <p dir="ltr"><a href="http://buildmyrobot.eventbrite.com.au/">http://buildmyrobot.eventbrite.com.au/</a></p>

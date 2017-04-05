@@ -5,7 +5,8 @@ date: '2013-09-16 10:08:44'
 tags: []
 ---
 
-<iframe style="border: none;" src="http://html5-player.libsyn.com/embed/episode/id/2473750/height/360/width/640/theme/legacy/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/" height="360" width="640" allowfullscreen="" scrolling="no"></iframe>
+<a href="https://drive.google.com/open?id=0B3KFoVQ01nUJdE50QV9KTlA4QUE">Show audio file</a>
+
 <!--more-->
 <strong>Show Notes:</strong>
 https://tapfame.com/ - tapfame, claim the mobile apps you worked on

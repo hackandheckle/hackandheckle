@@ -4,7 +4,8 @@ date: '2013-09-23 12:50:26'
 tags: []
 ---
 
-<iframe style="border: none;" src="http://html5-player.libsyn.com/embed/episode/id/2482264/height/360/width/640/theme/legacy/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/" height="360" width="640" allowfullscreen="" scrolling="no"></iframe>
+<a href="https://drive.google.com/open?id=0B3KFoVQ01nUJUjk3YmNSTEk0alk">Show audio file</a>
+
 <!--more-->
 This Week:
 AWSome Day

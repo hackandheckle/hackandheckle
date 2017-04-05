@@ -4,8 +4,7 @@ title: Hack and Heckle 040 - Interview Craig Smith, Agile 2013 Conference, Agile
 date: '2013-11-17 05:47:02'
 tags: []
 ---
-
-<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/2554499/height/75/width/640/theme/standard/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/" height="75" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<a href="https://drive.google.com/open?id=0B3KFoVQ01nUJYVJTblFrcW1UbFE">Show audio file</a>
 
 <!--more-->
 

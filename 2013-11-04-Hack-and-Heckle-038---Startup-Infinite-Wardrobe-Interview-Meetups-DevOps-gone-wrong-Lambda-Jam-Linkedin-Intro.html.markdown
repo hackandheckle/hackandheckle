@@ -5,7 +5,8 @@ date: '2013-11-04 09:14:40'
 tags: []
 ---
 
-<iframe style="border: none;" src="//html5-player.libsyn.com/embed/episode/id/2535650/height/360/width/640/theme/legacy/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/" height="360" width="640" allowfullscreen="" scrolling="no"></iframe>
+<a href="https://drive.google.com/open?id=0B3KFoVQ01nUJR1V6RUl0WVc1dEE"">Show audio file</a>
+
 <!--more-->
 http://www.infinitewardrobe.com/ - Interview starting at 34:55
 

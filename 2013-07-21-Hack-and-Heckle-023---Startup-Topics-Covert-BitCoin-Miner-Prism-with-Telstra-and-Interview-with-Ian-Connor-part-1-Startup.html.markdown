@@ -5,8 +5,7 @@ date: '2013-07-21 22:58:39'
 tags: []
 ---
 
-<iframe style="border: none" src="http://html5-player.libsyn.com/embed/episode/id/2407327/height/360/width/640/theme/legacy/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/" height="360" width="640" scrolling="no"></iframe>
-
+<a href="https://drive.google.com/open?id=0B3KFoVQ01nUJclN0dGlwSnJBRk0">Show audio file</a>
  Startup:
 http://melbourne.launch48.com/
 Our first Melbourne Launch48 Weekend in 2013 is here.: Friday 26th July to Sunday 28th July 2013. -Cost: $125 (full price) and $100 (early bird).

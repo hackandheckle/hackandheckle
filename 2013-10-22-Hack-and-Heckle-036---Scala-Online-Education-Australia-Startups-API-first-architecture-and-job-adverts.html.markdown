@@ -5,6 +5,8 @@ date: '2013-10-22 05:13:48'
 tags: []
 ---
 
+<a href="https://drive.google.com/open?id=0B3KFoVQ01nUJRGlyOUpmNE9ObVU">Show audio file</a>
+
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/2518475/height/360/width/640/theme/legacy/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/" height="360" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 <!--more—>
 Local:
